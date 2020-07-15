@@ -1,9 +1,9 @@
 {% extends 'base.html' %}
 {% block content %}
-<div class="shadow p-3 mb-5 bg-white rounded">
-  <h1 style="color:rgb(105, 189, 100)">Welcome to the Movie recommender</h1>
-  <h3 style="color:rgb(105, 189, 100)">Enter the Hollywood movie you like to get recommendations.</h3>
-</div>
+
+  <h1 style="color:rgb(105, 189, 150)">Welcome to the Movie recommender</h1>
+  <h3 style="color:rgb(105, 189, 150)">Enter the Hollywood movie you like to get recommendations.</h3>
+
 
   <form action="{{url_for('recommend')}}">
     <input type="text" name="movie" class="form-control" placeholder="Movie name here">
