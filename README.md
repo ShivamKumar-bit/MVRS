@@ -50,7 +50,7 @@ Example : Text1 = " ALL  WELL" Text2 ="WELL ALL WELL". There are 2 unique words 
 
 ![1](https://user-images.githubusercontent.com/67604006/87642773-96930d80-c767-11ea-93ce-f90c4a405fa7.png)
 
-5. There are only two unique words, hence we’re making a 2D graph. Now we need to find the cosine of angle ‘a’, which is the value of angle between both vectors. 
+There are only two unique words, hence we’re making a 2D graph. Now we need to find the cosine of angle ‘a’, which is the value of angle between both vectors. 
 
 ![Image](https://www.oreilly.com/library/view/statistics-for-machine/9781788295758/assets/2b4a7a82-ad4c-4b2a-b808-e423a334de6f.png)
 
